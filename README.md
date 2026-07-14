@@ -1,27 +1,20 @@
-# Week 6 Folder Maker App
+# Week 6-7 Folder Maker App
 
 ## Purpose
 Explain what your app creates and why it is useful.
-  - It Keeps me organized
-  - Saves me time from having the need to create multiple folders
+  - It keeps me organized
+  - My app creates a movie archive folder on the Desktop. Inside the folder, it creates text files for movies I own and movies on my wishlist
 
 ## How To Run
 Explain how to open and run the VB.NET project.
-  - Click the play button on top of VS code to run the app
-  - Enter the name file you want created
-  - Press Enter x2
-  - Then type "exit"
-  - Your file will be created on desktop
+  - Open the GitHub repository. Download or clone the repository. Open the VB.NET solution in Visual Studio. Press Start (or F5) to run the application. Enter the project name. Click the button to create the project structure. The application will automatically generate the required folders and files.
     
 ## Folder Structure Created
 List the folders and files your app generates.
-  - Assets
-      - Art
-      - Images
-  - Docs
-      - PDF
-      - Refs
-      - Word
+  - Desktop
+      - AngelsArchive
+      - Owned Movies
+      - Wishlist
   - ReadME.TXT
   
 ## Story to App Connection
