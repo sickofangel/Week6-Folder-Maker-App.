@@ -7,6 +7,8 @@ Explain what your app creates and why it is useful.
 
 ## How To Run
 Explain how to open and run the VB.NET project.
+  - Head to the AngelsMovieArchive Folder and download it. If not, try downloading the AngelsMovieArchive.Zip folder, then extract it.
+  - clcik on the VB folder and run it.
   - Open the GitHub repository. Download or clone the repository. Open the VB.NET solution in Visual Studio. Press Start (or F5) to run the application. Enter the project name. Click the button to create the project structure. The application will automatically generate the required folders and files.
     
 ## Folder Structure Created
