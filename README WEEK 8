@@ -1,0 +1,19 @@
+Angel's Movie Archive - README
+
+This folder is for my Week 8 Folder Maker App project. My app is a simple movie archive that helps me keep track of movies I own and movies I want to buy later.
+
+Inside this project, there are a few important files:
+
+- OwnedMovies.txt keeps track of movies I already own.
+- WishlistMovies.txt keeps track of movies I still want to buy.
+- MovieArchive.json saves the movie information in JSON format.
+- Module1.vb has the main code for the app.
+- MovieInfo.vb has the class used for the movie information.
+- Code_Examples.txt has the starter code and TODO comments from the assignment.
+- Screenshots show that the app runs and creates the correct files.
+
+The app runs in the console. When it starts, it creates a folder called AngelsMovieArchive on the Desktop. From there, I can add movies I own, add movies to my wishlist, search for movies, and view all saved movies.
+
+When I add a movie, the app saves it into a text file and also into the JSON file. This shows that the app can save information in more than one format.
+
+This is an individual project by Angel Bautista.
